@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ayush\\Desktop\\WebCoding\\Backent\\PracticeProgrammingCSharp\\Demo.FirstProject\\Demo.FirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\Ayush\\Desktop\\WebCoding\\Repository\\csharp-practice\\src\\PracticeProgrammingCSharp\\Demo.FirstProject\\Demo.FirstProject.csproj",
       "projectName": "Demo.FirstProject",
-      "projectPath": "C:\\Users\\Ayush\\Desktop\\WebCoding\\Backent\\PracticeProgrammingCSharp\\Demo.FirstProject\\Demo.FirstProject.csproj",
+      "projectPath": "C:\\Users\\Ayush\\Desktop\\WebCoding\\Repository\\csharp-practice\\src\\PracticeProgrammingCSharp\\Demo.FirstProject\\Demo.FirstProject.csproj",
       "packagesPath": "C:\\Users\\Ayush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ayush\\Desktop\\WebCoding\\Backent\\PracticeProgrammingCSharp\\Demo.FirstProject\\obj\\",
+      "outputPath": "C:\\Users\\Ayush\\Desktop\\WebCoding\\Repository\\csharp-practice\\src\\PracticeProgrammingCSharp\\Demo.FirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
